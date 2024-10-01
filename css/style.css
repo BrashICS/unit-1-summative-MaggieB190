@@ -1,0 +1,20 @@
+html {
+    min-height: 100vh;
+}
+
+.flexbox-container {
+    display: flex;
+}
+
+.flexbox-item {
+    width: 500px;
+    margin: 5px;
+}
+
+.flexbox-item-1 {
+    min-height: 10px;
+}
+
+.flexbox-item-2 {
+    min-height: 20px;
+}
