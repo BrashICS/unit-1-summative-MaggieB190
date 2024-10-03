@@ -1,0 +1,74 @@
+html {
+    min-height: 100vh;
+}
+
+body {
+    background-color: rgb(212, 241, 232);
+    padding: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: rgb(60, 87, 78);
+}
+
+h2 {
+    color: rgb(86, 117, 107);
+    font-size: 30px;
+}
+
+#secondheading {
+    color: rgb(60, 87, 78);
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+hr {
+    height: 2px;
+    background-color: rgb(60, 87, 78);
+}
+
+ol {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.flexbox-container {
+    display: flex;
+}
+
+.flexbox-item {
+    width: 500px;
+    margin: 5px;
+}
+
+.flexbox-item-1 {
+    min-height: 10px;
+}
+
+.flexbox-item-2 {
+    min-height: 10px;
+}
+
+figcaption {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table {
+    text-align: center;
+    width: 50%;
+    margin: 5px;
+    padding: 5px;
+    table-layout: fixed;
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    min-height: 30px;
+    min-width: 40px;
+    border: none;
+}
